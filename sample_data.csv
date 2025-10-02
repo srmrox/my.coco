@@ -1,0 +1,23 @@
+timestamp,sender,message
+2024-01-15T08:00:00,Alice,Good morning team! Ready to start the day
+2024-01-15T08:05:00,Bob,Morning Alice! Let's make it a productive one
+2024-01-15T08:10:00,Charlie,Hey everyone! 👋
+2024-01-15T09:30:00,Alice,Has anyone reviewed the Q1 reports yet?
+2024-01-15T09:35:00,Bob,I'm going through them now. Looking good so far!
+2024-01-15T09:40:00,Charlie,I'll have mine done by noon
+2024-01-15T10:00:00,Alice,Great! Thanks everyone
+2024-01-15T11:15:00,Bob,Quick question about the budget allocation
+2024-01-15T11:20:00,Alice,Sure! What do you need to know?
+2024-01-15T11:25:00,Bob,Should we increase the marketing budget for next quarter?
+2024-01-15T11:30:00,Alice,That's a good idea. Let's discuss it in today's meeting
+2024-01-15T12:00:00,Charlie,Lunch break! 🍕
+2024-01-15T13:30:00,Alice,Meeting in 30 minutes everyone
+2024-01-15T13:35:00,Bob,I'll be there
+2024-01-15T13:40:00,Charlie,Ready when you are
+2024-01-15T14:00:00,Alice,Starting now
+2024-01-15T15:30:00,Bob,Great meeting! Very productive
+2024-01-15T15:35:00,Alice,Agreed! Thanks for all the input
+2024-01-15T15:40:00,Charlie,Looking forward to implementing these changes
+2024-01-15T17:00:00,Alice,Have a great evening everyone!
+2024-01-15T17:05:00,Bob,You too! See you tomorrow
+2024-01-15T17:10:00,Charlie,Bye all! 😊
